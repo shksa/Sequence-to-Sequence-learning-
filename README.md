@@ -1,2 +1,2 @@
 # Sequence-to-Sequence-learning-
-Using sequence to sequence learning algorithm, machine translation was attempted with attention augmentation to the model.
+To learn sequence to sequence learning algorithm, a deep model was trained for machine translation with attention augmentation to the model.
